@@ -1,2 +1,24 @@
 # no-name-project
-A project that I don't know yet what is it going to be. The main purpose is to experiment Firebase authentication and dataabase. Might become a huge project later :D
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
